@@ -1,11 +1,11 @@
-//20/1/5 1978 04:46
+//20/1/6 1929 15:27
 #include <iostream>
 using namespace std;
 
 bool issosu(int n) {
 	bool result = false;
 	int i;
-	for (i= 2; i < n; i++) {
+	for (i = 2; i < n; i++) {
 		if (n % i == 0)
 			break;
 	}
@@ -16,12 +16,12 @@ bool issosu(int n) {
 
 int main()
 {
-	int N, input, cnt=0;
-	cin >> N;
-	for (int i = 1; i <= N; i++) {
-		cin >> input;
-		if (issosu(input)) cnt++;
+	int input, input2;
+	cin >> input >> input2;
+	for (int i = input; i <= input2; i++) {
+		if (issosu(i)) {
+			cout << i << endl;
+		}
 	}
-	cout << cnt;
 }
 
