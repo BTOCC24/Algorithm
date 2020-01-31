@@ -1,14 +1,14 @@
-//20/1/29 23:00 2446
+//20/1/31 23:00 2552
 
 #include <iostream>
 using namespace std;
 
 int main() {
-	int floor, star, blank;
+	int floor;
 	cin >> floor;
 	for (int i = 0; i < floor; i++) {
-		blank = i;
-		star = 2 * floor - 1 - 2 * blank;
+		int star = i + 1;
+		int blank = floor - star;
 		for (int j = 0; j < blank; j++)
 			cout << ' ';
 		for (int j = 0; j < star; j++)
@@ -16,8 +16,8 @@ int main() {
 		cout << '\n';
 	}
 	for (int i = 1; i < floor; i++) {
-		blank = floor - (i+1);
-		star = i * 2 + 1;
+		int star = floor-i;
+		int blank = floor - star;
 		for (int j = 0; j < blank; j++)
 			cout << ' ';
 		for (int j = 0; j < star; j++)
