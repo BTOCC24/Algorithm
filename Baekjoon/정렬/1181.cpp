@@ -14,8 +14,6 @@ bool compare(string a,string b) {
 }
 
 int main() {
-	cin.tie(NULL);
-	ios_base::sync_with_stdio(false);
 	vector<string> strv;
 	int n;
 	cin >> n;

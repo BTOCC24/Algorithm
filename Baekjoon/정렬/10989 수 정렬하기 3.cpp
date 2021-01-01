@@ -1,4 +1,3 @@
-//20/1/13 14:47 10989
 #include <iostream>
 using namespace std;
 int main() {
