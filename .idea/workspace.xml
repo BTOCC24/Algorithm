@@ -20,18 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18b65c39-78b8-439c-958d-1b5e46700dd5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Baekjoon/정렬/2750 수 정렬하기.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Baekjoon/정렬/2750 수 정렬하기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Baekjoon/정렬/2751 수 정렬하기 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CodingTest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon/정렬/1181.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon/정렬/1181.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon/정렬/2750.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon/정렬/2751.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon/정렬/2751 수 정렬하기 2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/level1/2016년.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/level1/3진법 뒤집기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/level1/K번째 수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/level1/가운데 글자 가져오기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/level1/두개 뽑아서 더하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/level1/모의고사.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/level1/완주하지 못한 선수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/level1/체육복.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/카카오 개발자 겨울 인턴십/크레인 인형뽑기 게임.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/카카오 개발자 겨울 인턴십/튜플.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,12 +57,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Baekjoon/정렬" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\btocc24\Desktop\study\CodingTest\Programmers\카카오 개발자 겨울 인턴십" />
       <recent name="C:\Users\btocc24\Desktop\study\CodingTest\Baekjoon\기초" />
     </key>
   </component>
