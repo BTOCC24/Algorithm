@@ -19,14 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18b65c39-78b8-439c-958d-1b5e46700dd5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Programmers/level1/같은 숫자는 싫어.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers/level1/나누어 떨어지는 숫자 배열.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers/level1/두 정수 사이의 합.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers/level1/문자열 내 p와 y의 개수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers/level1/문자열 내 마음대로 정렬하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="18b65c39-78b8-439c-958d-1b5e46700dd5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
