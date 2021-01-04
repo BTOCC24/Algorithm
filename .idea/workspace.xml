@@ -19,7 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18b65c39-78b8-439c-958d-1b5e46700dd5" name="Default Changelist" comment="" />
+    <list default="true" id="18b65c39-78b8-439c-958d-1b5e46700dd5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Programmers/level1/문자열 다루기 기본.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/level1/서울에서 김서방 찾기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/level2/124 나라의 숫자.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/level2/프린터.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -239,10 +245,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="157" key="SettingsEditor/1920.0.1280.728/0.0.1920.1040@0.0.1920.1040" timestamp="1609444307680" />
-    <state x="1255" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609160137156">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2757" y="305" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609754466970">
+      <screen x="1920" y="0" width="1280" height="728" />
     </state>
     <state x="1255" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1609160137156" />
+    <state x="2757" y="305" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1280.728/0.0.1920.1040@1920.0.1280.728" timestamp="1609754466970" />
     <state x="623" y="225" key="search.everywhere.popup" timestamp="1609615610752">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
