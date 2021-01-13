@@ -20,12 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18b65c39-78b8-439c-958d-1b5e46700dd5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Baekjoon/백트래킹/14888 연산자 끼워넣기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이 코딩 테스트다/구현/상하좌우.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이 코딩 테스트다/구현/시각.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이 코딩 테스트다/그리디/1이 될 떄까지.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이 코딩 테스트다/그리디/숫자 카드 게임.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이 코딩 테스트다/그리디/큰 수의 법칙.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이것이 코딩 테스트다/구현/게임 개발.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이것이 코딩 테스트다/구현/왕실의 나이트.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,8 +59,8 @@
       <recent name="C:\Users\btocc24\Desktop\study\CodingTest\Baekjoon\기초" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.상하좌우">
-    <configuration name="숫자 카드 게임" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.게임 개발">
+    <configuration name="게임 개발" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +68,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이 코딩 테스트다/그리디" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이 코딩 테스트다/구현" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이 코딩 테스트다/그리디/숫자 카드 게임.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이 코딩 테스트다/구현/게임 개발.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="큰 수의 법칙" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="왕실의 나이트" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이 코딩 테스트다/그리디" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이 코딩 테스트다/구현" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이 코딩 테스트다/그리디/큰 수의 법칙.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이 코딩 테스트다/구현/왕실의 나이트.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,27 +144,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="14888 연산자 끼워넣기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CodingTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/백트래킹" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/백트래킹/14888 연산자 끼워넣기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="상하좌우" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -190,13 +165,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="시각" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodingTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이 코딩 테스트다/구현" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이 코딩 테스트다/구현/시각.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.게임 개발" />
+        <item itemvalue="Python.왕실의 나이트" />
+        <item itemvalue="Python.시각" />
         <item itemvalue="Python.상하좌우" />
         <item itemvalue="Python.1이 될 떄까지" />
-        <item itemvalue="Python.숫자 카드 게임" />
-        <item itemvalue="Python.큰 수의 법칙" />
-        <item itemvalue="Python.14888 연산자 끼워넣기" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610030451515</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="study algo 21/01/11">
+      <created>1610312772896</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610312772896</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,7 +236,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="study algo 21/01/07" />
-    <option name="LAST_COMMIT_MESSAGE" value="study algo 21/01/07" />
+    <MESSAGE value="study algo 21/01/11" />
+    <option name="LAST_COMMIT_MESSAGE" value="study algo 21/01/11" />
   </component>
   <component name="WindowStateProjectService">
     <state x="887" y="273" key="#xdebugger.XInspectDialog" timestamp="1609963004897">
@@ -244,26 +248,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1280.728/0.0.1920.1040@0.0.1920.1040" timestamp="1610284104579" />
-    <state width="1899" height="152" key="GridCell.Tab.0.bottom" timestamp="1610312485230">
+    <state width="1899" height="152" key="GridCell.Tab.0.bottom" timestamp="1610487829995">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609351233494" />
-    <state width="1899" height="152" key="GridCell.Tab.0.bottom/1920.0.1280.728/0.0.1920.1040@0.0.1920.1040" timestamp="1610312485230" />
-    <state width="1899" height="152" key="GridCell.Tab.0.center" timestamp="1610312485230">
+    <state width="1899" height="152" key="GridCell.Tab.0.bottom/1920.0.1280.728/0.0.1920.1040@0.0.1920.1040" timestamp="1610487829995" />
+    <state width="1899" height="152" key="GridCell.Tab.0.center" timestamp="1610487829995">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609351233494" />
-    <state width="1899" height="152" key="GridCell.Tab.0.center/1920.0.1280.728/0.0.1920.1040@0.0.1920.1040" timestamp="1610312485230" />
-    <state width="1899" height="152" key="GridCell.Tab.0.left" timestamp="1610312485230">
+    <state width="1899" height="152" key="GridCell.Tab.0.center/1920.0.1280.728/0.0.1920.1040@0.0.1920.1040" timestamp="1610487829995" />
+    <state width="1899" height="152" key="GridCell.Tab.0.left" timestamp="1610487829995">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609351233494" />
-    <state width="1899" height="152" key="GridCell.Tab.0.left/1920.0.1280.728/0.0.1920.1040@0.0.1920.1040" timestamp="1610312485230" />
-    <state width="1899" height="152" key="GridCell.Tab.0.right" timestamp="1610312485230">
+    <state width="1899" height="152" key="GridCell.Tab.0.left/1920.0.1280.728/0.0.1920.1040@0.0.1920.1040" timestamp="1610487829995" />
+    <state width="1899" height="152" key="GridCell.Tab.0.right" timestamp="1610487829995">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609351233494" />
-    <state width="1899" height="152" key="GridCell.Tab.0.right/1920.0.1280.728/0.0.1920.1040@0.0.1920.1040" timestamp="1610312485230" />
+    <state width="1899" height="152" key="GridCell.Tab.0.right/1920.0.1280.728/0.0.1920.1040@0.0.1920.1040" timestamp="1610487829995" />
     <state width="1899" height="213" key="GridCell.Tab.1.bottom" timestamp="1609173245424">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -284,15 +288,23 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="157" key="SettingsEditor/1920.0.1280.728/0.0.1920.1040@0.0.1920.1040" timestamp="1609444307680" />
-    <state x="447" y="448" key="Vcs.Push.Dialog.v2" timestamp="1610030593848">
+    <state x="447" y="448" key="Vcs.Push.Dialog.v2" timestamp="1610312809374">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="447" y="448" key="Vcs.Push.Dialog.v2/1920.0.1280.728/0.0.1920.1040@0.0.1920.1040" timestamp="1610030593848" />
+    <state x="447" y="448" key="Vcs.Push.Dialog.v2/1920.0.1280.728/0.0.1920.1040@0.0.1920.1040" timestamp="1610312809374" />
     <state x="2757" y="305" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609754466970">
       <screen x="1920" y="0" width="1280" height="728" />
     </state>
     <state x="1255" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1609160137156" />
     <state x="2757" y="305" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1280.728/0.0.1920.1040@1920.0.1280.728" timestamp="1609754466970" />
+    <state x="668" y="118" width="584" height="804" key="find.popup" timestamp="1610312783768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="118" width="584" height="804" key="find.popup/1920.0.1280.728/0.0.1920.1040@0.0.1920.1040" timestamp="1610312783768" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1610368187275">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/1920.0.1280.728/0.0.1920.1040@0.0.1920.1040" timestamp="1610368187275" />
     <state x="623" y="225" key="search.everywhere.popup" timestamp="1609960489329">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
