@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18b65c39-78b8-439c-958d-1b5e46700dd5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Programmers/level1/소수 찾기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/level1/소수 찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/level1/소수 찾기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610546607628</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="study algo 21/01/14">
+      <created>1610566874280</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610566874280</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -231,7 +238,34 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
@@ -242,7 +276,8 @@
     <MESSAGE value="study algo 21/01/07" />
     <MESSAGE value="study algo 21/01/11" />
     <MESSAGE value="study algo 21/01/13" />
-    <option name="LAST_COMMIT_MESSAGE" value="study algo 21/01/13" />
+    <MESSAGE value="study algo 21/01/14" />
+    <option name="LAST_COMMIT_MESSAGE" value="study algo 21/01/14" />
   </component>
   <component name="WindowStateProjectService">
     <state x="887" y="273" key="#xdebugger.XInspectDialog" timestamp="1609963004897">
@@ -293,10 +328,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="157" key="SettingsEditor/1920.0.1280.728/0.0.1920.1040@0.0.1920.1040" timestamp="1609444307680" />
-    <state x="447" y="448" key="Vcs.Push.Dialog.v2" timestamp="1610546619860">
+    <state x="447" y="448" key="Vcs.Push.Dialog.v2" timestamp="1610566879321">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="447" y="448" key="Vcs.Push.Dialog.v2/1920.0.1280.728/0.0.1920.1040@0.0.1920.1040" timestamp="1610546619860" />
+    <state x="447" y="448" key="Vcs.Push.Dialog.v2/1920.0.1280.728/0.0.1920.1040@0.0.1920.1040" timestamp="1610566879321" />
     <state x="2757" y="305" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609754466970">
       <screen x="1920" y="0" width="1280" height="728" />
     </state>

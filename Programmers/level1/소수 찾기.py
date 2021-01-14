@@ -8,6 +8,7 @@ def solution(n):
 
     for i in range(3, n + 1, 2):
         if data[i] == 0:  # 소수 발견
+
             number.append(i)
             for j in range(i, n + 1, i):
                 data[j] = 1
