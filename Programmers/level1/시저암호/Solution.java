@@ -1,13 +1,19 @@
 class Solution {
-	public String solution(int n) {
-		String answer = "";
-		int count = n / 2;
-		for (int i = 0; i < count; i++) {
-			answer += "수박";
-		}
-		if (n % 2 == 0)
-			return answer;
-		else
-			return answer + "수";
-	}
+    public String solution(String s, int n) {
+        String answer = "";
+        // System.out.print('a' > 'A'); 이게 true
+        char arr[] = s.toCharArray();
+        for(int i=0;i<arr.length;i++){
+            if (arr[i] == ' '){
+                continue;
+            }
+            if (arr[i] >= 'a'){
+                arr[i] = (char)('a' + (arr[i] - 'a' + n) % 26);
+            }else{
+                arr[i] = (char)('A' + (arr[i] - 'A' + n) % 26);
+            }
+        }
+        answer = new String(arr);
+        return answer;
+    }
 }
