@@ -11,5 +11,4 @@ for _ in range(T):
     while m > 1:
         answer = answer // m
         m -= 1
-
     print(answer)
