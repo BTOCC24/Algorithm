@@ -2,3 +2,5 @@
 .idea/
 .gitignore
 test.py
+/bin/
+.classpath
