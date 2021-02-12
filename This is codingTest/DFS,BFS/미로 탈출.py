@@ -5,6 +5,7 @@ graph = [list(map(int, input())) for _ in range(n)]
 dx = [-1, 0, 1, 0]  # north east south west
 dy = [0, 1, 0, -1]
 
+
 def bfs(x, y):
     queue = deque()
     queue.append((x, y))  # 큐 삽입
@@ -21,4 +22,3 @@ def bfs(x, y):
                 graph[nx][ny] = graph[x][y] + 1
                 queue.append((nx, ny))
     return graph[n - 1][m - 1]
-
