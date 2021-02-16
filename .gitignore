@@ -1,10 +1,18 @@
-.project
-.idea/
+
 .gitignore
 test.py
-/bin/
-.classpath
 .gitignore
-out/
 .iml
-src/
+
+
+# Directories  #
+/out/
+/src/
+/bin/
+/.git/
+/.idea/
+
+# files #
+test.py
+*.iml
+.gitignore
