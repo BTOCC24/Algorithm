@@ -30,10 +30,6 @@ public class Main {
             }
         }
         System.out.println(dfs(1,1));
-
-        for(int[] x : dp){
-            System.out.println(Arrays.toString(x));
-        }
     }
 
     private static int dfs(int y, int x) {
