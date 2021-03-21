@@ -21,6 +21,7 @@ public class Main {
         for (int i = 1; i <= n; i++) { // one letter
             dp[1][i] = 1;
 
+
             if (arr[i - 1] == arr[i])
                 dp[2][i - 1] = 1;
         }
