@@ -30,7 +30,7 @@ public class Main {
         alpha[map[0][0] - 'A'] = true;
         dfs(0, 0, 1);
 
-        System.out.print(len);
+        System.out.println(len);
     }
 
     private static void dfs(int y, int x, int depth) {
